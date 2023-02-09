@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'idroid';
+    src: url('IDroi2d.otf') format('opentype'); 
+}
+
+body {
+    background-color:#84E1AD;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    text-shadow: 0px 5px 10px rgba(0, 0, 0, 0.726); 
+}
+
+#subtitulo {
+    text-align: center;
+    font-size: 1em;
+    margin-left: 10em;
+    margin-right: 10em;
+    padding-bottom: 2em;
+    text-shadow: 0px 5px 10px black;
+}
+
+header {
+    background-image:linear-gradient( to bottom, rgba(52, 214, 60, 0.486), rgba(0, 0, 0, 0.801));
+    padding: 10px;
+    color: white;    
+}
+
+nav > a {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: light;
+    text-decoration: none;
+    color: white;
+    text-align: right;
+    margin-right: 10px;
+    text-shadow: 0px 0px 20px black;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+}
+
+#noticias {
+    text-align: justify;
+    margin: -20px 11em 1em 11em;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 2em;
+    background-color: white;
+}
+
+#referencia{
+    color: green;
+}
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+    padding-bottom: 20px;
+}
+
+h2, h3 {
+    color: green;
+    font-family:'idroid';
+}
+h2{
+    border-color: white;
+    padding-top: 20px;
+}
+
+h3 {
+    background-image:linear-gradient( to right, rgba(52, 214, 60, 0.486), white);
+}
+
+footer {
+    background-color: rgb(22, 70, 22);
+    color: white;
+    margin-bottom: 0em;
+    padding: 5px;
+
+}
+
+footer > p {
+margin: 0px 0px 0px 30em;
+padding: 5px 5px 5px 5px;
+
+}
+
+.more {
+    box-shadow: black;
+    border-radius: 15px;
+    background-color: rgba(99, 230, 169, 0.404);
+    padding-top: 1px;
+    padding-left: 16px;
+    padding-right: 16px;
+    
+    
+}
+h4{
+    color: white;
+    background-color: rgb(58, 133, 71);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 10px;
+    margin-top: 0em;
+    margin-left: -1em;
+    margin-right: -1em;
+}

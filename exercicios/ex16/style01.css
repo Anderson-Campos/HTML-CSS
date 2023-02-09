@@ -1,0 +1,10 @@
+@charset "UTF-08";
+
+
+body{
+    background-image: linear-gradient(to left, #A619FF, #5E17E8, #3427FF, #1741E8, #1984FF);
+}
+
+p{
+    color: aliceblue;
+}
