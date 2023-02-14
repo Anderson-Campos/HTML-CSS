@@ -3,6 +3,8 @@
 
 No processo de aprendizagem em programação, sem pressa, mas com qualidade!
 
+<ul>
+<li>
 <a href="https://anderson-campos.github.io/HTML-CSS/exercicios/ex01/"> Exercicio 01 </a>
 <a href="https://anderson-campos.github.io/HTML-CSS/exercicios/ex02/"> Exercicio 02 </a>
 <a href="https://anderson-campos.github.io/HTML-CSS/exercicios/ex03/"> Exercicio 03 </a>
@@ -25,4 +27,5 @@ No processo de aprendizagem em programação, sem pressa, mas com qualidade!
 <a href="https://anderson-campos.github.io/HTML-CSS/exercicios/ex019/"> Exercicio 019 </a>
 <a href="https://anderson-campos.github.io/HTML-CSS/exercicios/ex020/"> Exercicio 020 </a>
 <a href="https://anderson-campos.github.io/HTML-CSS/exercicios/ex021/"> Exercicio 021 </a>
-
+</li>
+</ul>
